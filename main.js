@@ -8,7 +8,7 @@ const produtos = [
     },
     {
         id: 'bbc123',
-        nome: 'JSRaiz para bbk',
+        nome: 'JSRaiz vanilla',
         preco: 1200,
         descricao: 'o melhor curso de js',
         imagem: 'https://lorempixel.com/500/300'
@@ -22,9 +22,9 @@ const produtos = [
     },
     {
         id: 'yui123',
-        nome: 'JSRaiz para fotuda',
+        nome: 'JSRaiz para pro',
         preco: 999,
-        descricao: 'o melhor fotuda de js',
+        descricao: 'o melhor curso de js',
         imagem: 'https://lorempixel.com/500/300'
     }
 ];
